@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Covid Surveyor (TK4)</string>
+    <string name="add_survey">Add Survey</string>
+    <string name="update_survey">Modify Survey</string>
+    <string name="delete_survey">Delete Survey</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="save">Save</string>
+    <string name="confirm_delete">Are you sure you want to delete this survey?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="survey_results">Survey results</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="current_location">Current Location</string>
+    <string name="google_maps_key">AIzaSyDid-YjKnM_1RaJ06wYpxcPA3Jg_YsqoFo</string>
+</resources>

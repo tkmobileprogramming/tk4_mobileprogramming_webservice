@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.tk4_mobileprogramming" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="colorPrimaryVariant">@color/primary_variant_light</item>
+        <item name="colorOnPrimary">@color/on_primary_light</item>
+        <item name="colorSecondary">@color/secondary_light</item>
+        <item name="colorSecondaryVariant">@color/secondary_variant_light</item>
+        <item name="colorOnSecondary">@color/on_secondary_light</item>
+        <item name="android:colorBackground">@color/background_light</item>
+        <item name="colorOnBackground">@color/on_background_light</item>
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">@color/on_surface_light</item>
+        <item name="colorError">@color/error_light</item>
+        <item name="colorOnError">@color/on_error_light</item>
+<!--        <item name="android:statusBarColor">?attr/colorPrimary</item>-->
+<!--        <item name="android:windowLightStatusBar">true</item>-->
+        <item name="toolbarStyle">@style/Widget.App.Toolbar.Light</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
